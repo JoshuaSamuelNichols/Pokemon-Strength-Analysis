@@ -38,6 +38,13 @@ Welcome to the Pokémon Strength Analysis repository! This project dives deep in
 - **Type Trends:** Explore the prevalence of Pokémon Types in the upper echelons of strength.
 - Generation Insights: Understand the dynamics of Pokémon strength evolution through detailed analyses of each generation.
 
+## Socials
+
+Follow me on:
+- GitHub: [Nichols-Tech](https://github.com/Nichols-Tech)
+- LinkedIn: [MrNichols](https://www.linkedin.com/in/mrnichols/)
+- Medium: [Nichols-Tech](https://medium.com/@nichols.tech)
+- Instagram: [Nichols.Tech](https://instagram.com/Nichols.Tech)
 
 
 ## Disclaimer
