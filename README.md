@@ -28,7 +28,7 @@ Welcome to the Pokémon Strength Analysis repository! This project dives deep in
 
 ## Jupyter Notebook
 
-- [View the Jupyter Notebook](https://github.com/Nichols-Tech/Pokemon-Strength-Analysis/blob/main/Pokemon-Strength-Analysis.ipynb)
+- [View the Jupyter Notebook](https://github.com/JoshuaSamuelNichols/Pokemon-Strength-Analysis/blob/main/Pokemon-Strength-Analysis.ipynb)
 
 
 
