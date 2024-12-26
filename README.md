@@ -41,10 +41,10 @@ Welcome to the Pokémon Strength Analysis repository! This project dives deep in
 ## Socials
 
 Follow me on:
-- GitHub: [Nichols-Tech](https://github.com/Nichols-Tech)
-- LinkedIn: [MrNichols](https://www.linkedin.com/in/mrnichols/)
-- Medium: [Nichols-Tech](https://medium.com/@nichols.tech)
-- Instagram: [Nichols.Tech](https://instagram.com/Nichols.Tech)
+- [GitHub](https://github.com/joshuasamuelnichols)
+- [LinkedIn](https://www.linkedin.com/in/joshuasamuelnichols/)
+- [Medium](https://medium.com/@nichols.tech)
+- [Instagram](https://instagram.com/Nichols.Tech)
 
 
 ## Disclaimer
