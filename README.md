@@ -43,7 +43,7 @@ Welcome to the Pokémon Strength Analysis repository! This project dives deep in
 Follow me on:
 - [GitHub](https://github.com/joshuasamuelnichols)
 - [LinkedIn](https://www.linkedin.com/in/joshuasamuelnichols/)
-- [Medium](https://medium.com/@nichols.tech)
+- [Medium](https://medium.com/@joshuasamuelnichols)
 - [Instagram](https://instagram.com/Nichols.Tech)
 
 
