@@ -30,8 +30,11 @@ Welcome to the Pokémon Strength Analysis repository! This project dives deep in
 
 - [View the Jupyter Notebook](https://github.com/JoshuaSamuelNichols/Pokemon-Strength-Analysis/blob/main/Pokemon-Strength-Analysis.ipynb)
 
+## Dataset
 
+- [View the Dataset](https://github.com/JoshuaSamuelNichols/Pokemon-Strength-Analysis/blob/main/data/pokemon_data.csv)
 
+  
 ## Features
 
 - **Attack & Special Attack Analysis:** Uncover the top attackers and special attackers across the initial six generations.
